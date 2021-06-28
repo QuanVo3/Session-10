@@ -22,3 +22,4 @@ function handleData(data)
 fetch("https://jsonplaceholder.typicode.com/posts")
 .then((request) => request.json())
 .then(handleData);
+//Em mới làm câu 1 thôi câu 2 khó quá nên em đang nghiên cứu
